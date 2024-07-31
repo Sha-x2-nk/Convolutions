@@ -1,0 +1,12 @@
+[submodule "Direct-CUDA"]
+	path = Direct-CUDA
+	url = https://github.com/Sha-x2-nk/DirectConvolution-CUDA.git
+	branch = main
+[submodule "Winograd-CUDA"]
+	path = Winograd-CUDA
+	url = https://github.com/Sha-x2-nk/WinogradConvolution-CUDA.git
+	branch = main
+[submodule "Winograd-CPU"]
+	path = Winograd-CPU
+	url = https://github.com/Sha-x2-nk/WinogradConvolution.git
+	branch = main
